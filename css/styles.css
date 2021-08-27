@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: Comic Neue, monospace;
+}
+
+h1 {
+    padding-top: 20px;
+color: #7fff00;
+font-size: 50px;
+}
+h1:hover {
+color: gold;
+font-size: 50px;
+}
+h3{
+  color: blue;
+}
+.topstar{
+  padding-top: 10px;
+  position: relative;
+  top: auto;
+  left: 150px;
+  height: 3%;
+  width: 3%;
+}
+.topbird{
+  padding-top: 10px;
+  position: absolute;
+  top: auto;
+  left: 270px;
+  height: 10%;
+  width: 10%;
+}
+.lowmout{
+height: 50%;
+width: 50%;
+
+}
+.htwo{
+  color: purple;
+}
